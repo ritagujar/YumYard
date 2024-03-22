@@ -3,3 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.App {
+  padding: 0 1rem 0 1rem;
+  font-family: "Poppins", sans-serif;
+  max-width: 1200px;
+  margin: auto;
+}
