@@ -39,4 +39,8 @@ export const MenuSection = styled.div`
     letter-spacing: 0.7px;
     cursor: pointer;
   }
+
+  button:hover {
+    background-color: #f97316;
+  }
 `;
