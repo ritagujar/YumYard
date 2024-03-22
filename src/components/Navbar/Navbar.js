@@ -1,13 +1,6 @@
 import React from "react";
-import {
-  Heading,
-  HeadingSection,
-  Logo,
-  MenuSection,
-  NavbarSection,
-} from "./styles";
+import { HeadingSection, MenuSection, NavbarSection } from "./styles";
 import logo from "../../images/hat_7270989.png";
-import logo2 from "../../images/wooden-tableware.png";
 
 const Navbar = () => {
   return (
