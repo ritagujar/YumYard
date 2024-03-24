@@ -23,6 +23,8 @@ const Home = () => {
             cuisine from renowned restaurants, thoughtfully selected and
             conveniently brought to you.
           </p>
+
+          <button>Order Now</button>
         </LeftSection>
         <RightSection>
           <img src={homeBanner} alt="Banner" />

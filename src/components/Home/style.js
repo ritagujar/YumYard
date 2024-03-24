@@ -31,6 +31,23 @@ export const LeftSection = styled.div`
     letter-spacing: 0.7px;
     line-height: 2rem;
   }
+
+  button {
+    width: 7.5rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    border: none;
+    background-color: #f97316;
+    color: #ffffff;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
 `;
 
 export const RightSection = styled.div`
