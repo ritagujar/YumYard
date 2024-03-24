@@ -13,7 +13,7 @@ const Home = () => {
       <ContainerSection>
         <LeftSection>
           <h1>
-            Delicious <span>Dining Savor </span>the Flavor Delivered to Your{" "}
+            Delicious <span>Dining Savor </span> the Flavor Delivered to Your{" "}
             <span>Door Step</span>
           </h1>
           <p>
