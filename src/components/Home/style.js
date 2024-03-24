@@ -15,7 +15,6 @@ export const ContainerSection = styled.div`
 
   @media screen and (max-width: 590px) {
     width: 100%;
-
     flex-direction: column;
     gap: 1rem;
   }
@@ -78,8 +77,6 @@ export const LeftSection = styled.div`
 
 export const RightSection = styled.div`
   width: 50%;
-  align-items: center;
-  /* text-align: center; */
   img {
     width: 15rem;
     border-radius: 5px;
@@ -90,7 +87,6 @@ export const RightSection = styled.div`
   @media screen and (max-width: 590px) {
     img {
       width: 10rem;
-
       height: 20rem;
     }
   }
